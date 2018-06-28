@@ -1,6 +1,6 @@
 <?php
 
-namespace BluehouseGroup\UniquePage\Extensions
+namespace BluehouseGroup\UniquePage\Extensions;
 
 use SilverStripe\Core\Extension;
 
