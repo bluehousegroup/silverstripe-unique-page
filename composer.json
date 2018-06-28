@@ -1,0 +1,19 @@
+{
+    "name": "bluehousegroup/silverstripe-unique-page",
+    "description": "Prevents admin users from creating more than one instance of a page class.",
+    "homepage": "https://github.com/bluehousegroup/silverstripe-unique-page",
+    "type": "silverstripe-module",
+    "keywords": ["silverstripe", "page", "sitetree"],
+    "license": "BSD-3-Clause",
+    "authors": [
+        {
+            "name": "Joe Siebert",
+            "email": "joe@bluehousegroup.com",
+            "homepage": "https://bluehousegroup.com",
+            "role": "Developer"
+        }
+    ],
+    "require": {
+        "silverstripe/framework": "^4.0"
+    }
+}
